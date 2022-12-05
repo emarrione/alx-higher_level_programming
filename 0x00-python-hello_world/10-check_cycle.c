@@ -22,3 +22,4 @@ slow = slow->next;
 fast = fast->next->next;
 }
 return (0);
+}
