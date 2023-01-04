@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 
-"""
+# 0-rectangle.py
 
-Defines an empty class Rectangle
+# Brennan D Baraban <375@holbertonschool.com>
 
-"""
+"""Defines a Rectangle class."""
 
 
 
@@ -12,6 +12,6 @@ Defines an empty class Rectangle
 
 class Rectangle:
 
-        """Empty representation of a rectangle"""
+            """Represent a rectangle."""
 
-            pass
+                pass
